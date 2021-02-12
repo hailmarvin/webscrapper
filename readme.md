@@ -1,6 +1,7 @@
 # Simple webscrapper using python
 ## Libraries Used
 ```
-    BeautifulSoup
+    BeautifulSoup4
     Selenium
+    Requests
 ```
